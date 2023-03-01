@@ -32,6 +32,8 @@ public class SignTest {
 
         Assert.assertEquals("Hi, Julio",saudacao);
 
+        navegador.quit();
+
 
 
     }
