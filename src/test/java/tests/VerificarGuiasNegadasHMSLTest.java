@@ -25,7 +25,7 @@ public class VerificarGuiasNegadasHMSLTest {
         String url = "http://sitedeteste.com.br";
         String user = "";
         String password = "";
-        String cardNumber = "99999999977411"; //negado
+        String cardNumber = "999999999774115"; //negado
 
         //login
         navegador.get(url);
